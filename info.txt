@@ -1,0 +1,61 @@
+Componentes Funcionales 
+-importar react
+-debe tener una funcion
+-El nombre de la funcion debe empezar con mayusculas SIEMPRE
+-la funcion debe returnar un solo elemento 
+-se debe exportar la funcion 
+
+Componentes
+-Props
+-States
+-Ciclo de vida
+-Metodos del ciclo de vida
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//si tengo un solo una funcion se pone export default App, si hay dos funciones o mas hay que ponerle al lado de nombre da la variable export(esto sirve si hay dos componentes) para importalo a otra hoja, si son dos, se importan los don entre {}, si solo tiene un default y otro con export, se pone el default sin las llaves y el otro con{} depende cual sea el default  
+
+/* const nodoPadre = document.getElementById("padre")
+const p = document.createElement("p")
+p.innerHTML = "hola mundo"
+nodoPadre.appendChild(p)
+ */
+// esto de arriba es lo mismo que hacer <p> hola mundo <p/>

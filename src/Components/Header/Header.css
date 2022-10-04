@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100;
+    width: 100%;
+    
+}
+
+img{
+    height: 100px;
+}
+
+a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
